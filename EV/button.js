@@ -1,4 +1,4 @@
-var c = document.getElementById('canvas');
+var c = document.getElementById('');
 var ctx = c.getContext('2d');
 var btn = document.getElementsByClassName('btn')[0];
 
