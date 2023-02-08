@@ -1,4 +1,4 @@
-var c = document.getElementById('');
+var c = document.getElementById('col-sm-6');
 var ctx = c.getContext('2d');
 var btn = document.getElementsByClassName('btn')[0];
 
