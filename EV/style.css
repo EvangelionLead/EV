@@ -1,0 +1,121 @@
+
+@import url('https://fonts.googleapis.com/css?family=Orbitron:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800');
+
+body{
+	font-family: 'Orbitron', sans-serif;
+	font-size:14px;
+	
+}
+
+#team-section{
+	padding: 50px 0;
+
+background: rgba(192, 192, 192, 0.116);
+color:black;
+}
+.team-top-header h1 {
+	font-weight: 300;
+	color:black;
+}
+.team-member-id{
+	padding-top: 25px;
+}
+.team-member-id.text-center img {
+	width: 300px;
+	height: 300px;
+}
+.team-member-id.text-center h1 {
+	font-size: 11px;
+    	font-weight: 11px;
+	color:black;
+	
+}
+#recent-section{
+	padding:50px 0;
+}
+.recent-text h1{
+	font-weight: 300;
+
+font-size: 25px;
+}
+
+nav {
+	background-color:rgba(79, 88, 212, 0.527);
+	color: black;
+	 display:flex-block;
+	 justify-content: flex-end;
+	   display: center;
+
+}
+   
+ 
+   
+   a {
+   color: black;
+	 padding: 21px ;
+	 margin:  21px;
+   }
+	 
+	 a {
+	   color: black; text-decoration: blink;
+   }
+	   a:hover {
+		   color:silver;
+	   }
+
+	   col-md-6 {
+		color: black;
+		background-color:silver ;
+		margin: 0 0 auto;
+	  }
+	  
+	  .btn.btn-primary {
+		border-radius: 11px;
+		border: 11px;
+		color:black;
+		background-color:black ;
+	  }
+	  
+	  .btn.btn-primary:hover {
+		color:black;
+		background-color: silver;
+		  display: center;
+	  }
+	  
+	  .btn-secondary {
+		background-color:silver ;
+		color:yellow;
+		margin: 0 0 0 7px
+	  }
+	  .button {
+		display: center;
+		color:silver;
+		}
+		
+		.footer {
+			font-size: 7px;
+			padding: 7px 0;
+			color:white;
+			background-color:black;
+
+		}
+		  
+		  
+		  
+		  
+		  
+		  
+		  .footer,
+		  .col-sm-8 {
+			background-color:black;
+			color:white;
+			display: flex-center;
+			justify-content: flex-end;
+		  }
+		  
+		  .footer ul {
+			color:white;
+			background-color:black;
+			list-style: flex;
+		  }
+		  
